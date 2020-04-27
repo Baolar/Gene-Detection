@@ -16,7 +16,7 @@ int n, m;
 double tb[500][20]; //编号-试管-权值表，tb[i][j]表示编号为i的二进制从高位到低位的第j位的权值
 double csq[20];//测试试管结果
 vector<double> sum; //dfs当前和
-vector<vector<int>> ans; //dfs和
+vector<vector<int>> ans; //存答案
 vector<int> used; //dfs当前所用编号
 
 /*
