@@ -1,3 +1,10 @@
+/*
+ * 基因检测二进制问题
+ * Author:Wenshuo Chen, WUST
+ * mail: chenwenshuo@wust.edu.cn
+ * 2020.4.27
+ */
+
 #include <iostream>
 #include <cstdio>
 #include <vector>
